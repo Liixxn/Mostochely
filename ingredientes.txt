@@ -1,0 +1,6 @@
+Queso;true;3
+Jamon;true;2.5
+Bacon;false;3.5
+Pimiento;true;1.5
+Cebolla;false;2
+Champinion;false;4.5

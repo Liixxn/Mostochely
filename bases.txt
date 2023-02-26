@@ -1,0 +1,4 @@
+Fina;true;5;pequenia
+Normal;false;7;mediana
+Fina;true;8;grande
+Normal;false;6;mediana
